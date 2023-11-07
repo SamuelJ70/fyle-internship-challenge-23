@@ -2,7 +2,7 @@
 
 Demo
 Users can try out the demo of the application by clicking the URL:
-<https://sharan1133.github.io/RepoList/docs/>
+<https://samuelj70.github.io/fyle-internship-challenge-23/docs/>
 
 
 ## Prerequisites
